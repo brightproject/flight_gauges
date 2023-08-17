@@ -21,3 +21,8 @@
 * https://www.youtube.com/watch?v=ASEE_p26Gl8
 >изучить и повторить меню  `AvMap Horison`
 * https://www.youtube.com/watch?v=tenRbLOGkMU
+>калибровка магнитометра 
+* https://www.youtube.com/watch?v=lpLx8sViZEQ
+* https://thecavepearlproject.org/2015/05/22/calibrating-any-compass-or-accelerometer-for-arduino/
+* https://myahrs.wordpress.com/2012/04/25/turning-error-correction/
+* https://www.ngdc.noaa.gov/geomag/calculators/magcalc.shtml#declination
