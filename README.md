@@ -26,3 +26,7 @@
 * https://thecavepearlproject.org/2015/05/22/calibrating-any-compass-or-accelerometer-for-arduino/
 * https://myahrs.wordpress.com/2012/04/25/turning-error-correction/
 * https://www.ngdc.noaa.gov/geomag/calculators/magcalc.shtml#declination
+
+## Испытания экспериментальная авиа
+
+* https://www.garant.ru/products/ipo/prime/doc/72167168/
