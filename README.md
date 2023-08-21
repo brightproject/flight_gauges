@@ -30,3 +30,20 @@
 ## Испытания экспериментальная авиа
 
 * https://www.garant.ru/products/ipo/prime/doc/72167168/
+
+## Интерфейс приборов
+
+Flybox Avionics
+https://www.youtube.com/watch?v=tSnoWODZJL8
+LX iris series
+https://www.youtube.com/watch?v=g-cPiKwTiac
+uAvionix AV-30
+https://www.youtube.com/watch?v=_3SjbeZtruQ&t=30s
+https://www.youtube.com/watch?v=4bzphsGhboY
+ULTRA AvMap
+https://youtu.be/dvTStJWv6WY?t=92
+
+## Испытания приборов
+
+AV-30 Flight Test
+https://www.youtube.com/watch?v=nh9DiMPpKAA
