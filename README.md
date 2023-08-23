@@ -29,6 +29,8 @@
 * https://thecavepearlproject.org/2015/05/22/calibrating-any-compass-or-accelerometer-for-arduino/
 * https://myahrs.wordpress.com/2012/04/25/turning-error-correction/
 * https://www.ngdc.noaa.gov/geomag/calculators/magcalc.shtml#declination
+>передача данных в UART
+* https://arduino.stackexchange.com/questions/72138/send-structure-through-serial
 
 ## Испытания экспериментальная авиа
 
