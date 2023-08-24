@@ -31,6 +31,8 @@
 * https://www.ngdc.noaa.gov/geomag/calculators/magcalc.shtml#declination
 >передача данных в UART
 * https://arduino.stackexchange.com/questions/72138/send-structure-through-serial
+> периферийные устройства
+* https://gliding.lxnav.com/accessories/
 
 ## Испытания экспериментальная авиа
 
