@@ -47,6 +47,8 @@
 * https://www.youtube.com/watch?v=4bzphsGhboY
 > ULTRA AvMap
 * https://youtu.be/dvTStJWv6WY?t=92
+> lxnav
+* https://gliding.lxnav.com/products/s8/
 
 ## Испытания приборов
 
