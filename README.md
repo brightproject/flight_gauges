@@ -42,6 +42,8 @@
 
 > Flybox Avionics
 * https://www.youtube.com/watch?v=tSnoWODZJL8
+>  Kanardia Horis
+* https://www.youtube.com/watch?v=y8JeBRq2W1U
 > LX iris series
 * https://www.youtube.com/watch?v=g-cPiKwTiac
 > uAvionix AV-30
