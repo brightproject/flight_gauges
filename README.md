@@ -37,9 +37,9 @@
 >изучить и повторить интерфейс `Horizont Kanardia AHRS`
 * https://www.youtube.com/watch?v=ASEE_p26Gl8
 >изучить и повторить меню  `AvMap Horison`
-* Калибровка тангажа
-> https://youtu.be/zMzb0BuixKA?feature=shared&t=41
 * https://www.youtube.com/watch?v=tenRbLOGkMU
+> Калибровка тангажа
+* https://youtu.be/zMzb0BuixKA?feature=shared&t=41
 >калибровка магнитометра 
 * https://www.youtube.com/watch?v=lpLx8sViZEQ
 * https://www.youtube.com/watch?v=PMTW73KUHKE
