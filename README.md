@@ -1,7 +1,7 @@
 ## О проекте
 *Создание авиаприборов, для определения положения, контроля двигателей и систем, использующего два микроконтроллера `esp32` и `stm32`.* 
 *Проект будет разрабатываться под лицензией [МИТ](http://ru.wikipedia.org/wiki/Лицензия_MIT).*
-* EASA написало меморандум о сертификации
+* EASA написала меморандум о сертификации
 > https://www.easa.europa.eu/sites/default/files/dfu/CM-SWCEH-001%20Issue%2001%20Revision%2002.pdf
 > https://en.wikipedia.org/wiki/Avionics_software
 
@@ -50,8 +50,10 @@
 * https://arduino.stackexchange.com/questions/72138/send-structure-through-serial
 > периферийные устройства
 * https://gliding.lxnav.com/accessories/
+> теория полетных дисплеев
+* https://aviation.stackexchange.com/questions/39346/are-there-common-standards-for-aviation-graphical-user-interfaces
 
-## Испытания экспериментальная авиа
+## Испытания экспериментальная авиация
 
 * https://www.garant.ru/products/ipo/prime/doc/72167168/
 
