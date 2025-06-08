@@ -60,6 +60,10 @@
 
 * https://www.garant.ru/products/ipo/prime/doc/72167168/
 
+## Динамика ЛА в атмосфере ГОСТ 20058-80
+
+* https://docs.cntd.ru/document/1200009362
+
 ## Интерфейс приборов
 
 > Flybox Avionics
